@@ -1,0 +1,13 @@
+body {
+  background-color: #222d32;
+}
+.mt_150 {
+  margin-top: 150px;
+  /* background-color: aliceblue; */
+}
+.panel-primary h3 {
+  text-align: center;
+  line-height: 40px;
+  height: 40px;
+  font-size: 20px;
+}
